@@ -1,0 +1,5 @@
+{
+  "name": "Photo Studio",
+  "description": "Một bộ công cụ sáng tạo hình ảnh bằng AI của Trac Quoc Studio.",
+  "requestFramePermissions": []
+}
